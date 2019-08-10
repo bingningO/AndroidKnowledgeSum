@@ -6,10 +6,10 @@
 * Linux内核(Linux Kernel)
 
 _安卓系统结构示意图_
-![android structure](./images/android_structure.png)
+![android structure](https://github.com/bingningO/AndroidKnowledgeSum/blob/master/images/android_structure.png)
 
 _安卓架构总览_
-![android framework](./images/android_framework.png)
+![android framework](https://github.com/bingningO/AndroidKnowledgeSum/blob/master/images/android_framework.png)
 
 ### Dalvik
 Dalvik包含了一整套Android的运行环境虚拟机，每个APP都会被分配并保持独立。
